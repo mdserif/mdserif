@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdserif
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Data Analytics and Machine Learning.
 - 🌱 I’m currently learning python,pandas library.
 - 💞️ I’m looking to collaborate on projects based on Data Science and Machine Learning.
 - 📫 How to reach me ...
